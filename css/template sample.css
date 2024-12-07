@@ -14,7 +14,7 @@
     background-color: white;
 }
 .page1{
-    background-image: url(../hero-bg.jpg);
+    background-image: url(../images/hero-bg.jpg);
     height: 850px;
 }
 h4{
@@ -228,19 +228,19 @@ background-size: cover;
 height: 300px; 
 }
 .image1{
-background-image: url("../w-1.png");
+background-image: url("../images/w-1.png");
  width: 60%;
 }
 .image2{
-background-image: url("../w-2.png");
+background-image: url("../images/w-2.png");
 width: 40%;
 }
 .image3{
-background-image: url("../w-3.png");
+background-image: url("../images/w-3.png");
 width: 40%;
 }
 .image4{
-background-image: url("../w-4.png");
+background-image: url("../images/w-4.png");
 width: 60%;
 }
 .pageno5{
@@ -339,7 +339,7 @@ padding: 13px;
 padding-left: 50%;
 }
 .pageno6{
-background-image:url(../target-bg.jpg);  
+background-image:url(../images/target-bg.jpg);  
 height: 190px;
 width: 100%;
 margin-top: 2000px;
